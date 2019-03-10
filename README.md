@@ -10,7 +10,7 @@ After adding the column of debt in, the decision tree can be seen to have change
 ![DebtColumn](Miscellaneous/Final.jpg)
 
 The decision table in the final state would be as shown below:
-![DecisionTree](Miscellaneous/DecisionTable.jpg)
+![DecisionTree](https://github.com/SeahJunRu/IRS-MR-2019-01-19-IS1PT-IND-SeahJunRu-Mortgage_Process_ISS_MR_enhanced_DataminingDT/blob/master/Miscellaneous/DecisionTable.JPG)
 
 
 ---
