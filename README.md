@@ -1,4 +1,4 @@
-##EXECUTIVE SUMMARY / PAPER ABSTRACT
+## EXECUTIVE SUMMARY / PAPER ABSTRACT
 Banks do not always accept loan requested from them, as there are several checks and approval critieria that they will do. But there are way where you are able to increase your chances of getting a mortgage loan approved, when you have information on what are the factors that would affect the success of secuing a mortgage loan.
 
 From what I have learnt from this course, I have added 2 more factors that would affect the approval of a mortgage loan. By discovering the new rules through the usage of Orange3 knowledge aquisition using the data. I have added these new rules into the decision table in the workshop project. 
