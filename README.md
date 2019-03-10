@@ -7,7 +7,7 @@ After adding the column on whether the borrower spouse is working into the data,
 ![SpouseWorkingColumn](https://github.com/SeahJunRu/IRS-MR-2019-01-19-IS1PT-IND-SeahJunRu-Mortgage_Process_ISS_MR_enhanced_DataminingDT/blob/master/Miscellaneous/SpouseWorking.JPG)
 
 After adding the column of debt in, the decision tree can be seen to have changed even more.
-![DebtColumn](https://github.com/SeahJunRu/IRS-MR-2019-01-19-IS1PT-IND-SeahJunRu-Mortgage_Process_ISS_MR_enhanced_DataminingDT/blob/master/Miscellaneous/Final.JPG
+![DebtColumn](https://github.com/SeahJunRu/IRS-MR-2019-01-19-IS1PT-IND-SeahJunRu-Mortgage_Process_ISS_MR_enhanced_DataminingDT/blob/master/Miscellaneous/Final.JPG)
 
 The decision table in the final state would be as shown below:
 ![DecisionTree](https://github.com/SeahJunRu/IRS-MR-2019-01-19-IS1PT-IND-SeahJunRu-Mortgage_Process_ISS_MR_enhanced_DataminingDT/blob/master/Miscellaneous/DecisionTable.JPG)
