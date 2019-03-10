@@ -4,13 +4,14 @@ Banks do not always accept loan requested from them, as there are several checks
 From what I have learnt from this course, I have added 2 more factors that would affect the approval of a mortgage loan. By discovering the new rules through the usage of Orange3 knowledge aquisition using the data. I have added these new rules into the decision table in the workshop project. 
 
 After adding the column on whether the borrower spouse is working into the data, it can be observed that new rules are generated based on this column value as well.
-!(../master/Miscellaneous/SpouseWorking.jpg)
+![SpouseWorkingColumn](Miscellaneous/SpouseWorking.jpg)
 
 After adding the column of debt in, the decision tree can be seen to have changed even more.
-!(../master/Miscellaneous/Final.jpg)
+![DebtColumn](Miscellaneous/Final.jpg)
 
 The decision table in the final state would be as shown below:
-!(../master/Miscellaneous/DecisionTable.jpg)
+![DecisionTree](Miscellaneous/DecisionTable.jpg)
+
 
 ---
 
